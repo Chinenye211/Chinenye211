@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there friends👋
 
 <!--
 **Chinenye211/Chinenye211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
